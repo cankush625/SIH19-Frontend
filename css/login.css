@@ -1,0 +1,28 @@
+.nav-color{
+    background-color: #5a5a5a !important;
+}
+
+.heading-padding{
+    margin-top: 2% !important;
+}
+
+.faq-margin{
+    padding-top: 10%;
+    padding-left: 20%;
+    width: 80%;
+    padding-bottom: 3%;
+}
+
+input[name="wname"]{
+    width: 36.5vw !important;
+}
+
+.faq{
+    text-align: center;
+    font-size: 3vw;
+}
+
+.accc{
+/*    width: 80%;*/
+/*    margin-right: 10% !important;*/
+}
